@@ -1,4 +1,4 @@
-new Vue({
+var vue = new Vue({
    el: '#app',
    data: {
        playerHealth: 100,
